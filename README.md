@@ -1,2 +1,2 @@
 # iAI-Token
-AI Platform Digital Humans
+iAI is an advanced AI-powered platform focused on creating sustainable solutions through cutting-edge technologies such as Digital Humans, Autonomous Driving Platform Development, and i-Ai Token. With a vision of transforming industries, services, and daily life, iAI integrates AI, blockchain, and smart automation to enhance efficiency, promote green technologies, and foster the development of smart cities. By developing autonomous systems and Web3 technologies, iAI aims to create a safer, more transparent ecosystem that improves quality of life while driving innovation and sustainable growth.
